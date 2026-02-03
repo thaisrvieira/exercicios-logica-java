@@ -1,3 +1,12 @@
+/*
+ * Exercício 01 – Entrada e saída de dados
+ *
+ * Este programa solicita ao usuário o nome e a idade.
+ * Em seguida, calcula e exibe quantos anos a pessoa terá
+ * daqui a 10 anos, praticando entrada de dados, uso de
+ * variáveis, operações simples e saída formatada no console.
+ */
+
 import java.util.Scanner;
 
 public class Exercicio01 {
